@@ -1,0 +1,11 @@
+**/Binaries/*
+**/DerivedDataCache/*
+**/Intermediate/*
+**/.vs/*
+**/Build/*
+**/Logs/*
+**/Saved/*
+**/*.sln
+
+# remove local config
+**/Config/*
